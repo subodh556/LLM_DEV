@@ -1,0 +1,7 @@
+tiktoken==0.7.0
+matplotlib
+numpy
+tensorflow
+pandas
+chainlit
+torch
